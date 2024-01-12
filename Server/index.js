@@ -3,7 +3,7 @@ const cors = require("cors");
 const OpenAIApi = require("openai");
 
 const openai = new OpenAIApi({
-  apiKey: "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"
+  apiKey: "" // add your api key here
 });
 
 const app = express();
