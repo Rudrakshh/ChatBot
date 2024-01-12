@@ -17,36 +17,21 @@ Click on the image above to watch the live demo of the ChatBot in action!
 ## Getting Started
 
 To run the project locally, follow these steps:
-
-1. Clone the repository:
-
-    ```bash
-    git clone https://github.com/Rudrakshh/ChatBot.git
-    cd ChatBot
-    ```
-
-2. Install dependencies:
+1. Install dependencies:
 
     ```bash
     npm install
     ```
 
-3. Start the development server:
+2. Start the development server:
 
     ```bash
     npm start
     ```
 
-4. Open your browser and navigate to `http://localhost:3000`.
+3. Open your browser and navigate to `http://localhost:3000`.
 
 ## Usage
 
 Describe how users can use the ChatBot and any special instructions.
 
-## Contributing
-
-Feel free to contribute to this project by following our [contribution guidelines](CONTRIBUTING.md).
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
